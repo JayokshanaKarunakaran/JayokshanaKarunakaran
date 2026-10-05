@@ -2,8 +2,7 @@
 
 ### Biotechnology Student | NCC Cadet | Orator | Creative Learner
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square\&logo=linkedin\&logoColor=white)]((https://www.linkedin.com/in/jayokshana-karunakaran/))
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/jayokshana-karunakaran/)
 
 ---
 
@@ -67,3 +66,6 @@ Currently focusing on building a strong foundation in **biotechnology, communica
 I'm always open to **learning, collaborating, exchanging ideas and exploring new opportunities**.
 
 **Thanks for visiting my profile! 🌱**
+
+
+
